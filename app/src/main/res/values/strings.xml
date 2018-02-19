@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">HP Quiz</string>
+    <string name="title">Welcome in Harry Potter quiz!</string>
+
+    <string name="quest1">What creature is depicted in the emblem for Griffindor house?</string>
+    <string name="ans1_1">An eagle</string>
+    <string name="ans1_2">A lion</string> +
+    <string name="ans1_3">A badger</string>
+    <string name="ans1_4">A snake</string>
+
+    <string name="quest2">Professor Dumbledore\'s spectacles are rectangular?</string>
+    <string name="ans2_1">True</string>
+    <string name="ans2_2">False</string> +
+
+    <string name="quest3">Which Hogwarts student says, "I don't go looking for trouble. Trouble usually finds me"?</string>
+    <string name="ans3_1">Ron Weasley</string>
+    <string name="ans3_2">Harry Potter</string> +
+    <string name="ans3_3">Fred Weasley</string>
+    <string name="ans3_4">Draco Malfoy</string>
+
+    <string name="quest4">What is the incantation for the Summoning Charm?</string>
+    <string name="ans4_1">Accio</string> +
+    <string name="ans4_2">Anapneo</string>
+    <string name="ans4_3">Aperecium</string>
+    <string name="ans4_4">Avis</string>
+
+    <string name="quest5">How are parcels and letters sent in the wizarding world?</string>
+    <string name="ans5_1">Via wizard postmen</string>
+    <string name="ans5_2">Via the Floo Network</string>
+    <string name="ans5_3">Via broomstick</string>
+    <string name="ans5_4">Via owls</string> +
+
+    <string name="quest6">What do Harry and Ron crash into when they fly Arthur Weasley\'s Ford Anglia to Hogwarts?</string>
+    <string name="ans6_1">The Great Lake</string>
+    <string name="ans6_2">The Hogwarts Express</string>
+    <string name="ans6_3">The Whomping Willow</string> +
+    <string name="ans6_4">The Astronomy Tower</string>
+
+    <string name="quest7">What colour is the Hogwarts Express?</string>
+    <string name="ans7_1">Scarlet</string>
+
+    <string name="quest8">Members of Ravenclaw house are known for possessing which two of the following traits?</string>
+    <string name="ans8_1">Loyalty</string>
+    <string name="ans8_2">Intelligence</string> +
+    <string name="ans8_3">Cunning</string>
+    <string name="ans8_4">Wit</string> +
+
+    <string name="hint">Write your answer</string>
+
+    <string name="score">Click \"send\" to know your score</string>
+    <string name="send_button">Send</string>
+
+</resources>

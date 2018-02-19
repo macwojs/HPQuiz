@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HP Quiz</string>
+    <string name="quest4">Jak brzmi zaklęcie do przywoływania przedmiotów?</string>
+    <string name="title">Witam w quizie o Harrym Potterze!</string>
+    <string name="quest1">Jakie zwierze widnieje w godle Gryffindoru?</string>
+    <string name="ans1_2">Lew</string>
+    <string name="ans1_1">Orzeł</string>
+    <string name="ans1_3">Borsuk</string>
+    <string name="ans1_4">Wąż</string>
+    <string name="quest2">Czy okulary Profesora Dumbledora są okrągłe?</string>
+    <string name="ans2_1">Prawda</string>
+    <string name="ans2_2">Fałsz</string>
+    <string name="quest3">Który uczeń powiedział: \"Ja nie szukam kłopotów, to kłopoty zwykle znajdują mnie\"?</string>
+    <string name="quest5">Jak paczki i listy były dostarczane w świecie czarodziejów?</string>
+    <string name="ans5_1">Przez magicznego listonosza</string>
+    <string name="ans5_2">Przy pomocy sieci Floo</string>
+    <string name="ans5_4">Przez sowy</string>
+    <string name="ans5_3">Przez myszy</string>
+    <string name="quest6">W co wlecieli Harry i Ron, gdy lecieli Fordem Anglią do Hogwartu?</string>
+    <string name="ans6_1">W Wielkie Jezioro</string>
+    <string name="ans6_2">W Hogwart Express</string>
+    <string name="ans6_3">W Bijącą Wierzbę</string>
+    <string name="ans6_4">W Wierzę Astronomiczną</string>
+    <string name="quest7">Jakiego koloru jest Express Hogwart-Londyn</string>
+    <string name="ans7_1">Szkarłatny</string>
+    <string name="quest8">Jakie były dwie cechy cenione przez dom Ravenclaw?</string>
+    <string name="ans8_1">Lojalność</string>
+    <string name="ans8_2">Inteligencja</string>
+    <string name="ans8_3">"Przebiegłość "</string>
+    <string name="ans8_4">Dowcipność</string>
+    <string name="hint">Wpisz odpowiedź</string>
+    <string name="score">Kliknij \"Wyślij\", aby zobaczyć wynik</string>
+    <string name="send_button">Wyslij</string>
+    <string name="you_scored">Zdobyłeś</string>
+    <string name="points">punktów!</string>
+</resources>
