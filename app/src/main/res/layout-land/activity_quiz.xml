@@ -34,7 +34,7 @@
                     android:text="@string/ans1_1"
                     />
                 <RadioButton
-                    android:fontFamily="@font/hp"
+                    android:fontFamily="@fonts/hp"
                     android:id="@+id/ans1_2"
                     style="@style/RadioButton"
                     android:text="@string/ans1_2"

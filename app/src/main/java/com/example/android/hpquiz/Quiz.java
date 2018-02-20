@@ -7,6 +7,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class Quiz extends AppCompatActivity {
 
@@ -46,6 +47,8 @@ public class Quiz extends AppCompatActivity {
             score += 1;
         if (ans6_3.isChecked())
             score += 1;
+        else
+            score = score;
 
         String text7 = ans7.getText().toString().toLowerCase().replaceAll(" ","");
         if (text7.equals("red") || text7.equals("scarlet") || text7.equals("crimson") || text7.equals("gules"))
@@ -58,6 +61,8 @@ public class Quiz extends AppCompatActivity {
 
         TextView scoreText = findViewById(R.id.score_text);
         scoreText.setText(summaryText);
+
+        Toast.makeText(this , summaryText, Toast.LENGTH_SHORT).show();
 
         //restart score
         score = 0;
